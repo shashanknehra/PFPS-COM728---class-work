@@ -66,8 +66,7 @@ def counter_task():
         else:
             odd_counter += 1
 
-    print('There were {evenCounter} even and {oddCounter} odd numbers.'
-          .format(evenCounter=even_counter, oddCounter=odd_counter))
+    print(f'There were {even_counter} even and {odd_counter} odd numbers.')
 
 
 def nested_loop_task():
