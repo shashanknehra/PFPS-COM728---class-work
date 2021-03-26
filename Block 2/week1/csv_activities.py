@@ -11,7 +11,7 @@ def run_activity_1(path):
             print(values)
 
 
-# run_activity_1("files/bots.csv")
+run_activity_1("files/bots.csv")
 
 # Activity 1 End ---------------------
 
